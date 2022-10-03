@@ -1,5 +1,5 @@
 # 모범답안
-d=[]
+d = []
 for i in range(20) :
     d.append([])
     for j in range(20) : 
@@ -19,7 +19,7 @@ for i in range(n) :
         if d[j][y]==0 :
             d[j][y]=1
         else :
-        d[j][y]=0
+            d[j][y]=0
 
         if d[x][j]==0 :
             d[x][j]=1
