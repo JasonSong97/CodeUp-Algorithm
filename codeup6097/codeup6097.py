@@ -45,7 +45,7 @@ for i in range(1, h + 1):
 
 # 2
 h, w = map(int, input().split())
-board = []
+board =[]
 for i in range(h+1):
     board.append([])
     for j in range(w + 1):
