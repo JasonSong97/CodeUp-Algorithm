@@ -2,6 +2,6 @@
 n = int(input())
 print(bool(n))
 
-# 1
+# 1 
 a = int(input())
 print(bool(a))
